@@ -4,6 +4,7 @@
     <Cabecera></Cabecera>
     <lista></lista>
   </div>
+  
 </template>
 
 <script>
